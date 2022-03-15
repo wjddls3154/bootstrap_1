@@ -1,4 +1,5 @@
-# bootstrap_1 : 부트스트랩5 기본 사용법, 5부터는 jquery 가 들어가지 않는다. 
+# bootstrap_1 : 부트스트랩5 기본 사용법 코드
+## 부트스트랩 5부터는 jquery 가 들어가지 않는다. 
 Created with CodeSandbox
 
 - google 에 bootstrap 검색해서 사이트 들어가서, get started 클릭,
